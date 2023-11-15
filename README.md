@@ -1,81 +1,48 @@
-Muzammil Arshad
-============
+# Aspiring Software/ML Engineer
 
--------------------     ----------------------------
- MyAddress:                       muzammil@ualberta.ca
-github:                              muzammil35
+## Technical Skills:
+         Languages: Python, SQL, C, C++, Java, Javascript, Typescript, R, Julia, Solidity
+         Tools:     AWS, Serverless-Deployment, Junit, FireBase, GCP, MVN, NPM, Linux, Bash, node.js 
+         Libraries: Numpy, Sk-learn, tensorflow, pytorch, 
+         Frameworks React.js, Next.js, Flask
 
--------------------     ----------------------------
 
-Education
----------
+## Education
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2019-2025 (expected)
+:   **Bsc, Computer Science**;  University of Alberta (Edmonton, Alberta)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Work Experience
+**Software Engineer Intern @ Ukey.co (_Sep 2023 - Present_)**
+- Building the backend platform API that handles specific CRUD operation fucntionality for new services.
+- Implementing necessary business logic for backend platform
+- Feeding data from DB to front-end dashboard
+- Testing API endpoints through Postman
+  
+                    Languages: Java, Python
+                    Tools: MVN apache, Linux vm, Vue.js, Postman
+                    Frameworks: React.js, Next.js,
 
-    *Minor: Awesomeology*
 
-Experience
-----------
 
-**Your Most Recent Work Experience:**
+## Projects
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+#### Search Engine | Python, html/css, sqlite, GCP | [try it out](https://b5cq7vfzch.execute-api.us-west-2.amazonaws.com/)
 
-* First item
+- I built a search engine that uses filtering to reorder results based on content and remove malicious/ad-heavy tracking websites.
+- Engine will get results from the Google search API, store them in an SQL-lite database, then rank them based on defined filters.
+  [github repo](https://github.com/muzammil35/Search-engine)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+#### Self-driving car | javascript, Neural Networks | [try it out](https://muzammil35.github.io/Self-driving-car/)
 
-**That Other Job You Had**
+- Used my knowledge of Neural networks and Genetic algorithms to build a self-driving car that will learn to drive on a busy road.
+- Car is controlled by a Neural Network that leverages a genetic algorithm
+- Algorithm utilizes mutations derived from  most successful past trials, facilitating the generation of novel trial configurations 
+  for enhanced learning and adaptability.
+  [github repo](https://github.com/muzammil35/Self-driving-car)
 
-Also with a short description.
+  
 
-Technical Experience
---------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
 
